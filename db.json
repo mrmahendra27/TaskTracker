@@ -1,16 +1,10 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "First Task",
-      "day": "Monday",
-      "reminder": true
-    },
-    {
       "id": 2,
       "text": "Second Task",
       "day": "Tuesday",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 3,
@@ -29,6 +23,12 @@
       "day": "dcbhjdchbjwdc",
       "reminder": false,
       "id": 3212
+    },
+    {
+      "text": "adfskbjbjskdbjk",
+      "day": "bjsfbjksf",
+      "reminder": false,
+      "id": 3213
     }
   ]
 }
